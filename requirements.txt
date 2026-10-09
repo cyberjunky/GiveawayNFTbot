@@ -2,5 +2,5 @@ prawcore==2.3.0
 psaw==0.1.0
 requests==2.33.0
 update-checker==0.18.0
-urllib3==2.7.0
+urllib3==2.8.0
 websocket-client==1.2.1
